@@ -65,3 +65,9 @@ identifier = "blog"
 name = "blog"
 title = "Blog"
 url = "/blog"
+
+[[menu.main]]
+identifier = "portfolio"
+name = "portfolio"
+title = "Portfolio"
+url = "/portfolio"
