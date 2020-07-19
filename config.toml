@@ -65,6 +65,3 @@ identifier = "blog"
 name = "blog"
 title = "Blog"
 url = "/blog"
-
-# Submodule Publish Option
-publishDir = "docs"
