@@ -55,9 +55,9 @@ unsafe = true
 
 # Controls the navigation
 [[menu.main]]
-identifier = "about"
-name = "about"
-title = "About"
+identifier = " Home"
+name = " Home"
+title = "Home"
 url = "/"
 
 [[menu.main]]
