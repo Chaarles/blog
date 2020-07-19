@@ -5,10 +5,10 @@
 theme = "hugo-theme-codex"
 
 # Override these settings with your own
-baseURL = "https://chaarles.github.io/"
+baseURL = "https://chaarlesjeong.github.io/"
 copyright = "© {year}"
 languageCode = "en-us"
-title = "codex"
+title = "Chaarles"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
@@ -65,3 +65,6 @@ identifier = "blog"
 name = "blog"
 title = "Blog"
 url = "/blog"
+
+# Submodule Publish Option
+publishDir = "docs"
