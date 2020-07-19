@@ -71,3 +71,5 @@ identifier = "portfolio"
 name = "portfolio"
 title = "Portfolio"
 url = "/portfolio"
+
+publishDir = "docs"
